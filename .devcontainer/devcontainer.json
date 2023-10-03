@@ -1,0 +1,23 @@
+{
+  "name": "BF-OGR",
+  "image": "bf-org:latest",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "runArgs": [
+    "--name=bf-org",
+    "--tty"
+  ],
+  "postStartCommand": "sh .devcontainer/start.sh",
+  "shutdownAction": "stopContainer",
+  "customizations": {
+		"vscode": {
+			"settings": {},
+			"extensions": [
+        "dbaeumer.vscode-eslint",
+        "ms-vscode.live-server"
+      ]
+		}
+  }
+}
