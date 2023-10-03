@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    @@include('./base/_meta.html', {
+      "title": "@@pages.index.title",
+      "description": "@@pages.index.description",
+      "keywords": "@@pages.index.keywords"
+    })
+    @@include('./base/_head.html')
+  </head>
+  <body>
+    <div id="version-badge">Dev !</div>
+
+    @@include('./base/_header.html', { "page": "index.html" })
+
+    @@include('./base/hero/_section.html')
+
+    @@include('./pages/_index.html')
+
+    @@include('./base/_footer.html')
+
+    @@include('./base/_scripts.html')
+  </body>
+</html>
