@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Skill Growth",
+    "description": "Collaborating with BitForge offers an opportunity to expand your skill set. Whether you're a junior developer looking to gain practical experience or an experienced developer eager to mentor and share your expertise, our collaborative environment fosters continuous learning and skill enhancement.",
+    "url": "#",
+    "active": "active"
+  },
+  {
+    "title": "Open-Source Impact",
+    "description": "By collaborating with us, you become part of a community dedicated to making a real impact through open source. Your contributions help drive innovative projects and solutions that benefit the broader developer community and society as a whole.",
+    "url": "#",
+    "active": ""
+  },
+  {
+    "title": "Supportive Network",
+    "description": "BitForge provides a supportive network of like-minded individuals who share your passion for open source and software development. Together, we create an inclusive and encouraging space where you can connect, collaborate, and build lasting relationships with fellow developers.",
+    "url": "#",
+    "active": ""
+  }
+]

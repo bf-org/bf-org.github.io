@@ -1,0 +1,11 @@
+<nav id="navbar" class="navbar">
+  <ul>
+    @@include('./_menu_item.html', {
+      "title": "Home",
+      "url": "index.html",
+      "active": "@@if(page === 'index.html') { active }"
+    })
+  </ul>
+
+  <i class="bi bi-list mobile-nav-toggle"></i>
+</nav>

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Mentorship",
+    "description": "We pair junior developers with experienced mentors who guide them through real-world open-source projects, helping them learn and grow.",
+    "delay": 10,
+    "color": "blue",
+    "icon": "<i class='bx bxs-buoy'></i>"
+  },
+  {
+    "title": "Hands-on Experience",
+    "description": "BitForge provides a platform for junior developers to actively contribute to meaningful open-source projects, honing their skills and building a robust portfolio.",
+    "delay": 150,
+    "color": "pink",
+    "icon": "<i class='bx bxs-trophy'></i>"
+  },
+  {
+    "title": "Community",
+    "description": "Join a vibrant and inclusive community of developers who share knowledge, support one another, and create innovative solutions together.",
+    "delay": 300,
+    "color": "green",
+    "icon": "<i class='bx bxs-group'></i>"
+  },
+  {
+    "title": "Skill Enhancement",
+    "description": "Gain valuable skills in coding, teamwork, and project management while working on cutting-edge open-source initiatives.",
+    "delay": 450,
+    "color": "cyan",
+    "icon": "<i class='bx bxs-brain'></i>"
+  }
+]

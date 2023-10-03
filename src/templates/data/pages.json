@@ -1,0 +1,14 @@
+{
+  "pages": {
+    "index": {
+      "title": "Index",
+      "description": "",
+      "keywords": ""
+    },
+    "about": {
+      "title": "About",
+      "description": "",
+      "keywords": ""
+    }
+  }
+}
